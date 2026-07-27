@@ -20,7 +20,7 @@ Linus Torvalds
 
 Released the Linux kernel in 1991.
 
----
+----
 
 ## What is GNU?
 
