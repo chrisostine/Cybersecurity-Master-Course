@@ -1,4 +1,4 @@
-# Lesson 1 - Boot Process
+ Lesson 1 - Boot Process
 
 ## Objective
 
